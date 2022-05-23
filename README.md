@@ -1,8 +1,8 @@
-### Hi there 👋 Eu sou Carlos Filho
+### Hi there 👋 Eu sou Carlos Filho 
 
 - 🧠 Estudante de ADS 
 - 💻 Focado em Fullstack 
-
+##
 <div align="center">
   <a href="https://github.com/Carlosravick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosravick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,9 +19,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 
-    
+   ## 
   <div align="center">  
-     <a href="linkdoyoutube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="linkdoyoutube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cf_ravick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="linktaqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="linkaqui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -35,6 +35,6 @@
 
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>😎</p>
 </div>
 
