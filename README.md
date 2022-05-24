@@ -1,7 +1,8 @@
 ### Hi there 👋 Eu sou Carlos Filho 
 
 - 🧠 Estudante de ADS 
-- 💻 Focado em Fullstack 
+- 💻 Focando em Fullstack
+- 💻 Futuro software engineer
 ##
 <div align="center">
   <a href="https://github.com/Carlosravick">
