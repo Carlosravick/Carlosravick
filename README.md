@@ -2,7 +2,7 @@
 
 - 🧠 Estudante de ADS 
 - 💻 Focando em Fullstack
-- 💻 Futuro software engineer
+- 💻 Futuro Engenheiro de software 
 ##
 <div align="center">
   <a href="https://github.com/Carlosravick">
