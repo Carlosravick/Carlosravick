@@ -4,6 +4,13 @@
 - 💻 Focando em Fullstack
 - 💻 Futuro Engenheiro de software 
 ##
+
+<p align="center">
+<img width="460" height="280" src="https://i.pinimg.com/originals/62/f2/cc/62f2ccde1b2fffb43f05ce2e8219cc35.gif">
+  </p>
+
+
+##
 <div align="center">
   <a href="https://github.com/carlosravick">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlosravick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
