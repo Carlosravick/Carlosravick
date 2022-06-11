@@ -1,13 +1,11 @@
 ### Hi there 👋 Eu sou Carlos Filho 
-
 - 🧠 Estudante de ADS 
 - 💻 Focando em Fullstack
 - 💻 Futuro Engenheiro de software 
-##
 
-<p align="center">
-<img width="460" height="280" src="https://i.pinimg.com/originals/62/f2/cc/62f2ccde1b2fffb43f05ce2e8219cc35.gif">
-  </p>
+  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105933271/173202835-b11609fa-3bcf-433f-a5f7-2daca0328c58.gif)
+<img width="400" height="340" src="https://i.pinimg.com/originals/62/f2/cc/62f2ccde1b2fffb43f05ce2e8219cc35.gif">
 
 
 ##
