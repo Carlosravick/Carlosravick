@@ -2,7 +2,7 @@
   <b>               Hi there 👋 Eu sou Carlos Filho <b/>
     
  🧠 Estudante de ADS 
- 💻 Focando em Fullstack
+ 💻 Focando em Full stack
  💻 Futuro Engenheiro de software 
     </div>
 
