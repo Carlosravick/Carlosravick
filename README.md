@@ -1,15 +1,13 @@
 <div align="center">
-  <b>               Hi there 👋 Eu sou Carlos Filho <b/>
-    
- 🧠 Estudante de ADS 
- 📚 Focando em Full stack
- 💻 Futuro Engenheiro de software 
-#
+  <b>               Seja bem vindo meu perfil <b/>
+
+#   
+   Me chamo Carlos, natural de Fortaleza. Sou um Desenvolvedor de Software apaixonado por tecnologia e programação. Minha especialidade inclui o uso de Javascript, Typescript e Node.js para criar soluções eficientes. Além disso, tenho experiência em bancos de dados SQL, com foco no PostgreeSQL, e utilizo o Git para controle de versão. Estou sempre em busca de desafios estimulantes e oportunidades para aplicar meu conhecimento e habilidades em projetos inovadores. Vamos trabalhar juntos para criar soluções incríveis?
 </div>
 
   <div align="center">
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105933271/173202835-b11609fa-3bcf-433f-a5f7-2daca0328c58.gif)
+![ezgif com-gif-maker](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
 </div>
 
 ##
