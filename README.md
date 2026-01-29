@@ -46,14 +46,6 @@ Tenho experiência prática com **JavaScript, TypeScript, Node.js e Python**, in
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlosravick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosravick&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ---
 
@@ -71,6 +63,9 @@ Tenho experiência prática com **JavaScript, TypeScript, Node.js e Python**, in
 
 ![Snake animation](https://github.com/Carlosravick/Carlosravick/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=Back-end+%2F+Engenheiro+IA+;langchain+%7CLlamaindex;+%7C+LLMs+%7C+RAG+%7C+AWS;Construindo+solu%C3%A7%C3%B5es+inteligentes" />
+</p>
 😎
 
 </div>
